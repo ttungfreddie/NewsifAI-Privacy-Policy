@@ -9,8 +9,9 @@ This privacy policy applies to the NewsifAI Chrome extension.
 ## Information We Process
 When you choose to analyze text or enable auto-detection, NewsifAI processes:
 
-## Text you manually paste into the extension, or
-Visible article text from the webpage you choose to scan.
+- Text you manually paste into the extension, or
+- Visible article text from the webpage you choose to scan.
+
 We do not intentionally collect personal information such as names, email addresses, account details, or precise location data.
 
 ## How the Information Is Used

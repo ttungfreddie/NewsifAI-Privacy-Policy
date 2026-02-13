@@ -39,4 +39,4 @@ We take reasonable measures to protect data in transit by using secure network r
 ## Contact
 If you have questions or concerns about this privacy policy, please contact the NewsifAI team through email:
 
-ttungfreddie@gmail.com
+[ttungfreddie@gmail.com](mailto:ttungfreddie@gmail.com)

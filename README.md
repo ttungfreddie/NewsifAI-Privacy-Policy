@@ -1,8 +1,8 @@
 NewsifAI is a browser extension that helps users evaluate whether online articles may be fake, misleading, or biased. Your privacy matters to us, and this page explains how data is handled when you use the extension.
 
-Last updated: February 2026
+Last updated: April 2026
 
-Extension Version: 1.0
+Extension Version: 2.5.1
 
 This privacy policy applies to the NewsifAI Chrome extension.
 
